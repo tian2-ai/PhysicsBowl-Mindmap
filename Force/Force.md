@@ -20,15 +20,15 @@ markmap:
 ## Key Concepts
 
 ### Forces
-- **Types**: Gravity, Normal, Tension, Friction, Applied.
-- **Weight**: $W = mg$, where $g$ is acceleration due to gravity.
-- **Normal Force**:
+- Types: Gravity, Normal, Tension, Friction, Applied.
+- Weight: $W = mg$, where $g$ is acceleration due to gravity.
+- Normal Force:
   - On flat surfaces: $N = mg$ if no additional vertical forces.
   - On inclines: $N = mg \cos \theta$.
 
 ### Friction
-- **Static Friction**: $f_s \leq \mu_s N$
-- **Kinetic Friction**: $f_k = \mu_k N$
+- Static Friction: $f_s \leq \mu_s N$
+- Kinetic Friction: $f_k = \mu_k N$
 
 ### Components of Force on an Incline
 - Parallel to incline: $W_{\parallel} = mg \sin \theta$
@@ -49,15 +49,15 @@ markmap:
 - Apparent weight in accelerating systems (e.g., elevators).
 
 ### Force Analysis in Various Scenarios
-- **Pull or Push**:
+- Pull or Push:
   - Account for friction, normal forces, and resultant acceleration.
-- **Stacking Boxes**:
+- Stacking Boxes:
   - Analyze force distribution in multiple-contact systems.
-- **Inclined Planes**:
+- Inclined Planes:
   - Resolve gravitational force into components; consider friction if applicable.
-- **Pulleys**:
+- Pulleys:
   - Determine tensions and accelerations in systems involving pulleys.
-- **Strings**:
+- Strings:
   - Analyze tension transmission in multi-body systems.
 
 ### Connection to Kinematics
@@ -66,11 +66,11 @@ markmap:
 
 ## Skills
 
-- **Free-Body Diagrams**:
+- Free-Body Diagrams:
   - Clearly label all forces (gravity, normal, friction, tension).
-- **Vector Decomposition**:
+- Vector Decomposition:
   - Break forces into components for analysis.
-- **Equation Solving**:
+- Equation Solving:
   - Use simultaneous equations to solve for unknowns like acceleration or tension.
 
 ## Study Tips

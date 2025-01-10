@@ -17,61 +17,61 @@ markmap:
 ## Key Concepts
 
 ### Ohm's Law
-- **Relation**:
+- Relation:
   $$
   V = I R
   $$
 
 ### Power in Circuits
-- **Power Formulas**:
+- Power Formulas:
   $$
   P = IV = I^2 R = \frac{V^2}{R}
   $$
 
 ### Capacitance
-- **Charge on a Capacitor**:
+- Charge on a Capacitor:
   $$
   Q = C V
   $$
-- **Energy Stored**:
+- Energy Stored:
   $$
   U = \frac{1}{2} C V^2
   $$
 
 ### Inductors
-- **Energy Stored**:
+- Energy Stored:
   $$
   U_L = \frac{1}{2} L I^2
   $$
 
 ### Kirchhoff's Laws
-- **Voltage Law (KVL)**:
+- Voltage Law (KVL):
   - Sum of voltage changes in a closed loop equals zero.
-- **Current Law (KCL)**:
+- Current Law (KCL):
   - Sum of currents entering a node equals the sum of currents leaving.
 
 ### Resistors in Series and Parallel
-- **Series**:
+- Series:
   $$
   R_{\text{series}} = R_1 + R_2 + \dots
   $$
-- **Parallel**:
+- Parallel:
   $$
   \frac{1}{R_{\text{parallel}}} = \frac{1}{R_1} + \frac{1}{R_2} + \dots
   $$
 
 ### Time Constants
-- **RC Circuit**:
+- RC Circuit:
   $$
   \tau = R C
   $$
-- **RL Circuit**:
+- RL Circuit:
   $$
   \tau = \frac{L}{R}
   $$
 
 ### Dielectrics
-- **Effect on Capacitance**:
+- Effect on Capacitance:
   $$
   C' = \kappa C
   $$
@@ -97,21 +97,21 @@ markmap:
 
 ## Skills
 
-- **Series and Parallel Combinations**:
+- Series and Parallel Combinations:
   - Simplify complex resistor or capacitor networks systematically.
-- **Time-Dependent Circuits**:
+- Time-Dependent Circuits:
   - Understand transient behaviors in RC and RL circuits.
-- **Kirchhoff's Laws**:
+- Kirchhoff's Laws:
   - Set up consistent equations for voltage and current loops.
 
 ## Study Tips
 
-1. **Diagram First**:
+1. Diagram First:
    - Label all circuit elements and directions for currents and voltages.
-2. **Systematic Approaches**:
+2. Systematic Approaches:
    - For Kirchhoff’s Laws, use consistent loop directions and distinct node voltages.
-3. **Unit Conversions**:
+3. Unit Conversions:
    - Ensure correct use of $\Omega$, V, A, F, etc.
-4. **Transient vs. Steady-State**:
+4. Transient vs. Steady-State:
    - Capacitors act as open circuits, and inductors as short circuits in steady-state DC.
 

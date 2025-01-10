@@ -18,25 +18,25 @@ markmap:
 ## Key Concepts
 
 ### Ideal Gas Law
-- **General Equation**:
+- General Equation:
   $$
   PV = nRT
   $$
 
 ### Thermodynamic Processes
-1. **Isothermal**:
+1. Isothermal:
    - $\Delta T = 0 \Rightarrow \Delta U = 0$
    - Work: 
      $$
      W = nRT \ln \left(\frac{V_f}{V_i}\right)
      $$
-2. **Isochoric**:
+2. Isochoric:
    - $\Delta V = 0 \Rightarrow W = 0$
    - Heat: 
      $$
      Q = nC_v\Delta T
      $$
-3. **Isobaric**:
+3. Isobaric:
    - $P = \text{const}$
    - Work: 
      $$
@@ -46,7 +46,7 @@ markmap:
      $$
      Q = nC_p\Delta T
      $$
-4. **Adiabatic**:
+4. Adiabatic:
    - $Q = 0$
    - $PV^\gamma = \text{const}$, where $\gamma = \frac{C_p}{C_v}$
    - Relationships:
@@ -57,13 +57,13 @@ markmap:
    - Diatomic gases: $C_v = \frac{5}{2}R$, $C_p = \frac{7}{2}R$, $\gamma = \frac{7}{5}$
 
 ### Root Mean Square (rms) Speed
-- **Molecular Speed**:
+- Molecular Speed:
   $$
   v_{\text{rms}} = \sqrt{\frac{3RT}{M}}
   $$
 
 ### Carnot Efficiency
-- **Maximum Efficiency**:
+- Maximum Efficiency:
   $$
   e_{\text{Carnot}} = 1 - \frac{T_c}{T_h}
   $$
@@ -87,21 +87,21 @@ markmap:
 
 ## Skills
 
-- **Understand PV Diagrams**:
+- Understand PV Diagrams:
   - Recognize isothermal (hyperbolic), isochoric (vertical), isobaric (horizontal), and adiabatic (steeper curve).
-- **Use Proper Heat Capacity**:
+- Use Proper Heat Capacity:
   - $C_v$ for isochoric, $C_p$ for isobaric.
-- **Apply First Law of Thermodynamics**:
+- Apply First Law of Thermodynamics:
   - $\Delta U = Q - W$ for all processes.
 
 ## Study Tips
 
-1. **Master Process Characteristics**:
+1. Master Process Characteristics:
    - Learn formulas for work, heat, and energy for each thermodynamic transformation.
-2. **Work with Unit Consistency**:
+2. Work with Unit Consistency:
    - Use SI units: Pa, $\mathrm{m^3}$, K, J.
-3. **Analyze Cycles on PV Diagrams**:
+3. Analyze Cycles on PV Diagrams:
    - Calculate work as the area enclosed by a cycle.
-4. **Check Signs for Work and Heat**:
+4. Check Signs for Work and Heat:
    - Expansion: $W > 0$, compression: $W < 0$.
 

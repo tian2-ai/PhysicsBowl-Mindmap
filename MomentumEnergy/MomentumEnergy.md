@@ -11,8 +11,8 @@ markmap:
 
 ## Introduction
 
-- **Momentum ($\mathbf{p}$)**: Measure of "quantity of motion" of an object.
-- **Energy**: Capacity to do work; includes:
+- Momentum ($\mathbf{p}$): Measure of "quantity of motion" of an object.
+- Energy: Capacity to do work; includes:
   - Kinetic Energy ($\frac{1}{2}mv^2$)
   - Potential Energy (e.g., gravitational, elastic).
 - Conservation laws enable efficient problem-solving in scenarios like collisions, projectiles, and spring systems.
@@ -20,45 +20,45 @@ markmap:
 ## Key Concepts
 
 ### Momentum
-- **Linear Momentum**:
+- Linear Momentum:
   $$
   \mathbf{p} = m \mathbf{v}
   $$
-- **Impulse--Momentum Theorem**:
+- Impulse--Momentum Theorem:
   $$
   \Delta \mathbf{p} = \mathbf{F}_{\text{net}} \Delta t
   $$
 
 ### Energy
-- **Kinetic Energy**:
+- Kinetic Energy:
   $$
   K = \frac{1}{2} m v^2
   $$
-- **Gravitational Potential Energy**:
+- Gravitational Potential Energy:
   $$
   U_g = m g h
   $$
-- **Spring Potential Energy**:
+- Spring Potential Energy:
   $$
   U_s = \frac{1}{2} k x^2
   $$
-- **Total Mechanical Energy**:
+- Total Mechanical Energy:
   $$
   E_{\text{total}} = K + U
   $$
-- **Calculating Work**:
+- Calculating Work:
   $$
   W = \mathbf{F} \cdot \mathbf{d}
   $$
-- **Work--Energy Theorem**:
+- Work--Energy Theorem:
   $$
   W = \Delta K
   $$
 
 ### Conservation Laws
-- **Momentum Conservation**:
+- Momentum Conservation:
   - Applies in closed systems without external forces.
-- **Energy Conservation**:
+- Energy Conservation:
   - Applies when no energy is lost to non-conservative forces (e.g., friction).
 
 ## Question Types
@@ -75,31 +75,31 @@ markmap:
   - Heights
 
 ### Collisions
-- **Elastic Collision**:
+- Elastic Collision:
   - Both momentum and kinetic energy conserved.
   - Solve simultaneous equations for final velocities.
-- **Inelastic Collision**:
+- Inelastic Collision:
   - Momentum conserved; some kinetic energy lost.
   - Perfectly inelastic: objects stick together post-collision.
 
 ## Skills
 
-- **Conservation Laws**:
+- Conservation Laws:
   - Identify and apply momentum or energy conservation.
-- **Vector Manipulation**:
+- Vector Manipulation:
   - Especially important for 2D collisions.
-- **Dot Product**:
+- Dot Product:
   - Use for work calculations: $\mathbf{F} \cdot \mathbf{d}$.
-- **Equation Solving**:
+- Equation Solving:
   - Simultaneously conserve momentum and energy in complex problems.
 
 ## Study Tips
 
-1. **Identify Conservation Laws**:
+1. Identify Conservation Laws:
    - Check for external forces or energy losses.
-2. **Use Vector Components**:
+2. Use Vector Components:
    - Break vectors into components for 2D problems.
-3. **Track Energy Transformations**:
+3. Track Energy Transformations:
    - Observe conversions between kinetic and potential energies.
-4. **Focus on Efficiency**:
+4. Focus on Efficiency:
    - Use conservation principles to simplify problem-solving.

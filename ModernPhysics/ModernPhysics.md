@@ -74,11 +74,11 @@ markmap:
   $$
 
 #### Nuclear Decay Modes
-- **Alpha Decay**: $-2 \, Z, -4 \, A$
-- **Beta Decay**:
+- Alpha Decay: $-2 \, Z, -4 \, A$
+- Beta Decay:
   - $\beta^-$: $n \rightarrow p + e^- + \bar{\nu}_e$
   - $\beta^+$: $p \rightarrow n + e^+ + \nu_e$
-- **Electron Capture**:
+- Electron Capture:
   $$
   p + e^- \rightarrow n + \nu_e
   $$
@@ -89,44 +89,44 @@ markmap:
 ## Question Types
 
 ### Relativistic Physics
-- **Energy and Momentum Conservation**:
+- Energy and Momentum Conservation:
   - Solve for $p$ or $E$ using:
     $$
     E^2 = (pc)^2 + (m_0 c^2)^2
     $$
-- **Time Dilation/Length Contraction**:
+- Time Dilation/Length Contraction:
   - Calculate stretched time intervals or contracted lengths for moving observers.
-- **Velocity Addition**:
+- Velocity Addition:
   - Relativistic formula replaces classical addition at high speeds.
 
 ### Modern Physics
-- **Photoelectric Effect**:
+- Photoelectric Effect:
   - Find $W_0$, $KE_e$, or $\lambda$ from photon interactions.
-- **Radioactive Decay**:
+- Radioactive Decay:
   - Calculate remaining nuclei or elapsed time using:
     $$
     N(t) = N_0 e^{-\lambda t}
     $$
-- **Nuclear Transformations**:
+- Nuclear Transformations:
   - Track atomic/mass number changes in decay processes.
 
 ## Skills
 
-- **Use Lorentz Factor**:
+- Use Lorentz Factor:
   - Master $\gamma$ for time, length, and energy relations.
-- **Apply Conservation Laws**:
+- Apply Conservation Laws:
   - Energy and momentum must balance in relativistic and nuclear contexts.
-- **Track Decay Products**:
+- Track Decay Products:
   - Follow transformations in alpha, beta, and electron capture processes.
 
 ## Study Tips
 
-1. **Understand Frame of Reference**:
+1. Understand Frame of Reference:
    - Identify rest vs. moving frames for proper application of time dilation/length contraction.
-2. **Use Energy-Momentum Relations**:
+2. Use Energy-Momentum Relations:
    - For high-speed or massless particles, solve for $E$, $p$, or $\gamma$.
-3. **Learn Decay Patterns**:
+3. Learn Decay Patterns:
    - Practice alpha/beta decay and identify daughter nuclei.
-4. **Check Dimensional Consistency**:
+4. Check Dimensional Consistency:
    - Validate results by ensuring units match (e.g., energy in joules).
 

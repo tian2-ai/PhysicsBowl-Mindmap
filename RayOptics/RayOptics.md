@@ -17,47 +17,47 @@ markmap:
 ## Key Concepts
 
 ### Lens and Mirror Equations
-- **Relationship**:
+- Relationship:
   $$
   \frac{1}{f} = \frac{1}{d_o} + \frac{1}{d_i}
   $$
   - $f$: Focal length, $d_o$: Object distance, $d_i$: Image distance.
 
 ### Magnification
-- **Formula**:
+- Formula:
   $$
   m = \frac{h_i}{h_o} = -\frac{d_i}{d_o}
   $$
   - $h_i$: Image height, $h_o$: Object height.
 
 ### Sign Conventions
-- **Lenses**:
+- Lenses:
   - Positive distances: Opposite side of the object.
-- **Mirrors**:
+- Mirrors:
   - Positive distances: Same side as the object.
 
 ### Image Characteristics
-- **Real Images**:
+- Real Images:
   - Inverted, can be projected.
-- **Virtual Images**:
+- Virtual Images:
   - Upright, cannot be projected.
 
 ## Question Types
 
 ### Mirrors
-- **Concave (Converging)**:
+- Concave (Converging):
   - Real, inverted images for $d_o > f$.
   - Virtual, upright images for $d_o < f$.
-- **Convex (Diverging)**:
+- Convex (Diverging):
   - Always forms virtual, upright, reduced images.
 
 ### Lenses
-- **Converging (Convex)**:
+- Converging (Convex):
   - Real, inverted, reduced images for $d_o > 2f$.
   - Real, inverted, enlarged images for $f < d_o < 2f$.
   - Virtual, upright, enlarged images for $d_o < f$.
   - No image for $d_o = f$.
-- **Diverging (Concave)**:
+- Diverging (Concave):
   - Always produces virtual, upright, reduced images.
 
 ### Multiple-Lens Systems
@@ -68,28 +68,28 @@ markmap:
   $$
 
 ### Ray Diagrams
-- **Key Rays**:
+- Key Rays:
   - Parallel Ray: Refracts/reflects through the focal point.
   - Central Ray: Passes through the lens center or mirror vertex.
   - Focal Ray: Passes through the focal point first, exits parallel.
 
 ## Skills
 
-- **Lens/Mirror Equation**:
+- Lens/Mirror Equation:
   - Solve for unknown distances or focal length.
-- **Magnification**:
+- Magnification:
   - Calculate image size and orientation.
-- **Ray Diagram Interpretation**:
+- Ray Diagram Interpretation:
   - Predict image location and type using principal rays.
 
 ## Study Tips
 
-1. **Master Sign Conventions**:
+1. Master Sign Conventions:
    - Positive and negative values for distances, focal lengths, and magnification.
-2. **Draw Clear Ray Diagrams**:
+2. Draw Clear Ray Diagrams:
    - Use principal rays for accurate image prediction.
-3. **Practice Multi-Lens Systems**:
+3. Practice Multi-Lens Systems:
    - Combine individual lens results for final image analysis.
-4. **Verify Image Characteristics**:
+4. Verify Image Characteristics:
    - Determine real vs. virtual, inverted vs. upright using equations and diagrams.
 

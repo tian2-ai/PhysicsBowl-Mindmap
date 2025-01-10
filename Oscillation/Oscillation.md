@@ -18,48 +18,48 @@ markmap:
 ## Key Concepts
 
 ### Simple Pendulum
-- **Period**:
+- Period:
   $$
   T = 2\pi \sqrt{\frac{L}{g}}
   $$
   - Independent of mass and amplitude for small angles.
 
 ### Physical Pendulum
-- **Period**:
+- Period:
   $$
   T = 2\pi \sqrt{\frac{I}{m g d}}
   $$
   - $I$: Moment of inertia about pivot, $d$: Distance from pivot to center of mass.
 
 ### Mass-Spring System
-- **Period**:
+- Period:
   $$
   T = 2\pi \sqrt{\frac{m}{k}}
   $$
   - Independent of amplitude under ideal conditions.
 
 ### Oscillation Equations
-- **General Form**:
+- General Form:
   $$
   x(t) = A \cos(\omega t + \phi)
   $$
   - $A$: Amplitude, $\omega$: Angular frequency, $\phi$: Phase constant.
   
 ### Energy in Oscillation
-- **Total Energy (Mass-Spring)**:
+- Total Energy (Mass-Spring):
   $$
   E_{\text{total}} = \frac{1}{2} k A^2
   $$
   - $A$: Amplitude.
-- **Energy Transformation (Pendulum)**:
+- Energy Transformation (Pendulum):
   - Potential energy at the highest point: $mgh$.
   - Kinetic energy at the lowest point: $\frac{1}{2} m v^2$.
 ### Resonance
-- **Definition**:
+- Definition:
   - Large amplitude oscillations occur when the driving frequency matches the natural frequency.
 
 ### Forces in Oscillations
-- **Tension in Pendulum (Lowest Point)**:
+- Tension in Pendulum (Lowest Point):
   $$
   T = mg + \frac{m v^2}{L}
   $$
@@ -80,21 +80,21 @@ markmap:
 
 ## Skills
 
-- **Small-Angle Approximation**:
+- Small-Angle Approximation:
   - Use $\sin \theta \approx \theta$ (radians) for pendulum problems.
-- **Energy Conservation**:
+- Energy Conservation:
   - Bypass kinematic equations by analyzing potential and kinetic energy.
-- **Resonance Awareness**:
+- Resonance Awareness:
   - Identify conditions leading to large amplitude oscillations.
 
 ## Study Tips
 
-1. **Memorize Key Formulas**:
+1. Memorize Key Formulas:
    - Focus on $T = 2\pi \sqrt{\frac{m}{k}}$ and $T = 2\pi \sqrt{\frac{L}{g}}$.
-2. **Check Assumptions**:
+2. Check Assumptions:
    - Verify small-angle approximations for pendulums.
-3. **Use Energy Conservation**:
+3. Use Energy Conservation:
    - Simplify complex problems by tracking energy transformations.
-4. **Recognize Resonance**:
+4. Recognize Resonance:
    - Understand the implications of driving forces matching natural frequencies.
 

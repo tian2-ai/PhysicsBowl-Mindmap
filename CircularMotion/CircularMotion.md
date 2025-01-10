@@ -12,32 +12,32 @@ markmap:
 ## Introduction
 
 - Motion along a circular path at constant speed.
-- **Centripetal Acceleration**:
+- Centripetal Acceleration:
   - Points toward the center, changing direction of velocity but not magnitude.
 
 ## Key Concepts
 
 ### Centripetal Acceleration
-- **Definition**: Acceleration toward the center of a circle.
-- **Formula**:
+- Definition: Acceleration toward the center of a circle.
+- Formula:
   $$
   a_{\text{c}} = \frac{v^2}{r} = \omega^2 r = \frac{4\pi^2}{T^2} r
   $$
 
 ### Centripetal Force
-- **Definition**: Net inward force maintaining circular motion.
-- **Formula**:
+- Definition: Net inward force maintaining circular motion.
+- Formula:
   $$
   F_{\text{c}} = m \frac{v^2}{r} = m \omega^2 r = m \frac{4\pi^2}{T^2} r
   $$
 - Not an additional force; arises from forces like tension, gravity, or friction.
 
 ### Linear and Angular Relationships
-- **Linear Velocity**:
+- Linear Velocity:
   $$
   v = \omega r
   $$
-- **Period of Motion**:
+- Period of Motion:
   $$
   T = \frac{2\pi r}{v} = \frac{2\pi}{\omega}
   $$
@@ -54,32 +54,32 @@ markmap:
 - Impact of removing or altering centripetal force.
 
 ### Centripetal Force Analysis
-- **Turntable/Motion Around a Pole**:
+- Turntable/Motion Around a Pole:
   - Analyze friction or tension as the centripetal force.
-- **Conical Pendulum**:
+- Conical Pendulum:
   - Decompose tension into vertical and radial components.
-- **Flat or Banked Curve**:
+- Flat or Banked Curve:
   - Identify friction or normal force providing centripetal acceleration.
-- **Vertical Circle**:
+- Vertical Circle:
   - Account for varying forces (tension and weight) at top/bottom of the loop.
 
 ## Skills
 
-- **Radial and Tangential Decomposition**:
+- Radial and Tangential Decomposition:
   - Separate forces into components; focus on radial for uniform motion.
-- **Free-Body Diagrams**:
+- Free-Body Diagrams:
   - Sketch forces (tension, friction, gravity, normal) to identify centripetal contributions.
-- **Trigonometric Analysis**:
+- Trigonometric Analysis:
   - Essential for conical pendulums or banked curve scenarios.
 
 ## Study Tips
 
-1. **Link Force and Acceleration**:
+1. Link Force and Acceleration:
    - Identify forces responsible for centripetal acceleration.
-2. **Analyze Edge Cases**:
+2. Analyze Edge Cases:
    - Consider top/bottom of vertical circles or minimum speeds.
-3. **Understand Angular Quantities**:
+3. Understand Angular Quantities:
    - Relate velocity, angular speed, and period.
-4. **Confident Trigonometry**:
+4. Confident Trigonometry:
    - Decompose forces in angled problems.
 

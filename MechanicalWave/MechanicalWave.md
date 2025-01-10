@@ -20,41 +20,41 @@ markmap:
 ## Key Concepts
 
 ### Wave Properties
-- **Wave Speed Relation**:
+- Wave Speed Relation:
   $$
   v = f \lambda
   $$
 
 ### Wave Speed on a String
-- **Formula**:
+- Formula:
   $$
   v = \sqrt{\frac{T}{\mu}}
   $$
   - $T$: Tension in the string, $\mu$: Linear mass density.
 
 ### Standing Waves
-- **Strings (Fixed Ends)**:
+- Strings (Fixed Ends):
   $$
   f_n = \frac{n v}{2L}, \quad \lambda_n = \frac{2L}{n} \quad (n = 1, 2, 3, \dots)
   $$
-- **Open--Open Pipe**:
+- Open--Open Pipe:
   $$
   f_n = \frac{n v}{2L}, \quad \lambda_n = \frac{2L}{n} \quad (n = 1, 2, 3, \dots)
   $$
-- **Open--Closed Pipe**:
+- Open--Closed Pipe:
   $$
   f_n = \frac{n v}{4L}, \quad \lambda_n = \frac{4L}{n} \quad (n = 1, 3, 5, \dots)
   $$
 
 ### Sound Intensity
-- **Intensity Relation**:
+- Intensity Relation:
   $$
   I = \frac{P}{A}, \quad L = 10 \log_{10}\left(\frac{I}{I_0}\right)
   $$
   - $L$: Decibels (dB), $I$: Intensity, $I_0$: Reference intensity.
 
 ### Doppler Effect
-- **Observed Frequency**:
+- Observed Frequency:
   $$
   f' = f \left(\frac{v \pm v_o}{v \mp v_s}\right)
   $$
@@ -82,23 +82,23 @@ markmap:
 
 ## Skills
 
-- **Boundary Conditions**:
+- Boundary Conditions:
   - Identify nodes and antinodes for strings and pipes.
-- **Wave Superposition**:
+- Wave Superposition:
   - Understand interference patterns (constructive/destructive).
-- **Sound Intensity**:
+- Sound Intensity:
   - Relate intensity to power, area, and distance.
-- **Doppler Effect**:
+- Doppler Effect:
   - Apply correct sign conventions for source and observer motion.
 
 ## Study Tips
 
-1. **Visualize Standing Waves**:
+1. Visualize Standing Waves:
    - Draw nodes and antinodes to avoid errors in harmonic counting.
-2. **Use Correct Wave Speed Relation**:
+2. Use Correct Wave Speed Relation:
    - Decide between $v = f \lambda$ or $v = \sqrt{\frac{T}{\mu}}$ for strings.
-3. **Understand Logarithms**:
+3. Understand Logarithms:
    - Ensure clarity in decibel and intensity calculations.
-4. **Master Doppler Effect**:
+4. Master Doppler Effect:
    - Use proper sign conventions for moving sources and observers.
 

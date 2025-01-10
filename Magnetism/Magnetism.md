@@ -17,27 +17,27 @@ markmap:
 ## Key Concepts
 
 ### Magnetic Force on a Moving Charge
-- **Formula**:
+- Formula:
   $$
   \mathbf{F} = q (\mathbf{v} \times \mathbf{B})
   $$
   - Magnitude: $F = q v B \sin(\theta)$.
 
 ### Magnetic Force on a Current-Carrying Wire
-- **Formula**:
+- Formula:
   $$
   \mathbf{F} = I (\mathbf{L} \times \mathbf{B}), \quad F = I L B \sin(\theta)
   $$
 
 ### Magnetic Field Due to a Current
-- **Long Straight Wire**:
+- Long Straight Wire:
   $$
   B = \frac{\mu_0 I}{2 \pi r}
   $$
   - $\mu_0 = 4 \pi \times 10^{-7} \, \mathrm{N/A^2}$, $r$: Distance from wire.
 
 ### Faraday’s Law of Induction
-- **Induced EMF**:
+- Induced EMF:
   $$
   \varepsilon = -\frac{d\Phi_B}{dt}
   $$
@@ -47,7 +47,7 @@ markmap:
 - The direction of induced current opposes the change in magnetic flux.
 
 ### Circular Motion in a Magnetic Field
-- **Radius of Circular Path**:
+- Radius of Circular Path:
   $$
   r = \frac{m v}{q B}
   $$
@@ -67,11 +67,11 @@ markmap:
 
 ## Skills
 
-- **Right-Hand Rule**:
+- Right-Hand Rule:
   - Determine directions of forces, fields, and induced currents.
-- **Vector Cross Products**:
+- Vector Cross Products:
   - Apply $\mathbf{F} = q (\mathbf{v} \times \mathbf{B})$ and $\mathbf{F} = I (\mathbf{L} \times \mathbf{B})$ accurately.
-- **Combined Fields**:
+- Combined Fields:
   - Manage scenarios with coexisting electric and magnetic fields using:
     $$
     \mathbf{F}_{\text{total}} = q (\mathbf{E} + \mathbf{v} \times \mathbf{B}).
@@ -79,10 +79,10 @@ markmap:
 
 ## Study Tips
 
-1. **Master the Right-Hand Rule**:
+1. Master the Right-Hand Rule:
    - Thumb: velocity or current, index: field, middle finger: force.
-2. **Check Cross Product Directions**:
+2. Check Cross Product Directions:
    - Ensure correct orientation for forces and fields.
-3. **Understand Field Interactions**:
+3. Understand Field Interactions:
    - Analyze problems with both $\mathbf{E}$ and $\mathbf{B}$ fields systematically.
 

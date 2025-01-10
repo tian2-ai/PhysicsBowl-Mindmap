@@ -17,7 +17,7 @@ markmap:
 ## Key Concepts
 
 ### Angular Kinematics
-- **Equations of Motion**:
+- Equations of Motion:
   $$
   \theta = \theta_0 + \omega_0 t + \frac{1}{2} \alpha t^2
   $$
@@ -31,35 +31,35 @@ markmap:
   \theta = \theta_0 + \frac{1}{2} (\omega_0 + \omega) t
   $$
 ### Newton's Second Law for Rotation
-- **Rotational Form**:
+- Rotational Form:
   $$
   \sum \tau = I \alpha
   $$
 
 ### Torque
-- **Definition**: Tendency of a force to rotate an object.
-- **Formula**:
+- Definition: Tendency of a force to rotate an object.
+- Formula:
   $$
   \tau = r \times F_\perp = r F \sin(\phi)
   $$
 
 ### Angular Momentum
-- **Momentum of a Rigid Body**:
+- Momentum of a Rigid Body:
   $$
   L = I \omega
   $$
-- **Conservation of Angular Momentum**:
+- Conservation of Angular Momentum:
   - No external torque: $L$ is conserved.
   - Example: $I_1 \omega_1 = I_2 \omega_2$.
 
 ### Rotational Kinetic Energy
-- **Formula**:
+- Formula:
   $$
   K_{\text{rot}} = \frac{1}{2} I \omega^2
   $$
 
 ### Static Equilibrium
-- **Conditions**:
+- Conditions:
   - $\sum \mathbf{F} = 0$ (no net force).
   - $\sum \tau = 0$ (no net torque).
 
@@ -79,21 +79,21 @@ markmap:
 
 ## Skills
 
-- **Vector Manipulation**:
+- Vector Manipulation:
   - Handle torque as a cross product: $\tau = \mathbf{r} \times \mathbf{F}$.
-- **Sign Conventions**:
+- Sign Conventions:
   - Define clockwise or counterclockwise as positive and stay consistent.
-- **Parallel Axis Theorem**:
+- Parallel Axis Theorem:
   - For off-center rotations: $I = I_{\text{CM}} + M d^2$.
 
 ## Study Tips
 
-1. **Track Directions**:
+1. Track Directions:
    - Consistent axis and positive sense (counterclockwise often positive).
-2. **Practice Cross Product**:
+2. Practice Cross Product:
    - Understand $\tau = \mathbf{r} \times \mathbf{F}$ and related angles.
-3. **Use Parallel Axis Theorem**:
+3. Use Parallel Axis Theorem:
    - Useful for non-central rotation axes.
-4. **Combine Linear and Rotational Motion**:
+4. Combine Linear and Rotational Motion:
    - Analyze rolling and combined motion problems.
 
